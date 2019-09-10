@@ -216,7 +216,7 @@
                                     <groupId>org.freemarker</groupId>
                                     <artifactId>freemarker</artifactId>
                                     <outputDirectory>${project.build.directory}/classes/META-INF/freemarker</outputDirectory>
-                                    <includes>META-INF/LICENSE.txt,META-INF/NOTICE.txt</includes>
+                                    <includes>META-INF/LICENSE.txt</includes>
                                 </artifactItem>
                             </artifactItems>
                         </configuration>
